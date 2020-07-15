@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hoztok/hoztok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,9 +46,9 @@ Here are some ideas to get you started:
 
 <!--#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.-->
 
-<!--#### - 🔭 SpaceX FanBoi, 
-#### - 🛸 Into High Energy Physics and Astrophysics
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)-->
+<!--#### - 🔭 SpaceX FanBoi, -->
+<!--#### - 🛸 Into High Energy Physics and Astrophysics-->
+<!--#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)-->
 
 <!--**I am Into , 🙏**
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
