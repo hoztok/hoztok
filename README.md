@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 <!--#### - 🔭 SpaceX FanBoi, -->
 <!--#### - 🛸 Into High Energy Physics and Astrophysics-->
-<!--#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)-->
 
 <!--**I am Into , 🙏**
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
